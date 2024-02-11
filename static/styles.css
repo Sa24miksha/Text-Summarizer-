@@ -1,0 +1,78 @@
+.jumbotron{
+    margin-top: 30px;
+    background-color: rgb(178, 151, 204);
+    border: 2px solid black;
+}
+
+.display-4{
+    display: flex;
+    justify-content: center;
+}
+
+.lead{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    margin: 10px;
+}
+
+.btn-secondary{
+    margin-top: 30px;
+    background-color: rgb(94, 53, 133);;
+}
+
+.original_title{
+    background-color: rgb(125, 202, 135);
+    font-size: 25px;
+    font-weight: bold;
+    padding: 22px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.Summary_title{
+    background-color: rgb(127, 172, 176);
+    font-size: 25px;
+    font-weight: bold;
+    padding: 22px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.srt{
+    display: flex;
+    flex-direction: row;
+}
+
+.originalTxt{
+    background-color:  rgb(151, 185, 156) ;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.summaryTxt{
+    background-color:  rgb(144, 175, 177) ;
+    padding: 20px;
+    margin-left: 60px;
+    border: 2px solid black;
+}
+
+.orgbtn{
+    background-color:rgb(151, 185, 156);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.sumbtn{
+    background-color: rgb(144, 175, 177);
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
